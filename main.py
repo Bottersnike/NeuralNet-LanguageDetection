@@ -1,0 +1,3 @@
+import LanguageDetection
+
+LanguageDetection.main()
